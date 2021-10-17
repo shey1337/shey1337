@@ -1,7 +1,7 @@
 - 🕸 Hi, I’m @shey1337
-- 🦇 I’m interested in the development [               ]
-- 🕷 I’m currently learning ++ and python.
-- 🖤 I’m looking to collaborate on a [          ] project.
+- 🦇 I’m interested in discord bots and counter strike cheats.
+- 🕷 I’m currently learning c++ and python.
+- 🖤 I’m looking to collaborate on a discord modoration bot project.
 - ⛧ Contact me via 
 -   discord: shey#1335
 -       email: shey1337@protonmail.com

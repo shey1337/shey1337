@@ -3,7 +3,7 @@
 - 🕷 I’m currently learning c++ and python.
 - 🖤 I’m looking to collaborate on a discord moderation bot project.
 - ⛧ Contact me via 
--   discord: shey#1335
+-   discord: shey#2018
 -       email: shey1337@protonmail.com
 
 <!---
